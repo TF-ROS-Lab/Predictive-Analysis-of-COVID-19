@@ -1,5 +1,5 @@
-# Predictive-Analysis-and-Visulization-of-Coronavirus-Scenario-in-Bangladesh
-A Python-based Data Analysis project with a predictive model to visualize the Coronavirus outbreak in Bangladesh. Along with different charts and graphs, It can predict the cases. deaths, and recoveries in Bangladesh due to coronavirus for the next 30 days. It also has ongoing trends, estimations, and weekly analysis with a future prediction of the current coronavirus conditions. 
+# Visulization and Predictive-Analysis-of-COVID-19-Stats-in-Bangladesh
 
-Libraries and Tools used: pandas, matplotlib, plotly, folium, fbprophet, Jupyter Notebook, Voila, Heroku, etc.
+## Background
 
+This project is supported by the *TF-ROS Lab* and relative collaboration by a team of *[Asif Ahmed Neloy](https://aaneloy.netlify.app/)*, *[Intisar Tahmid Naheen](http://ece.northsouth.edu/people/mr-intisar-tahmid-naheen/)* and *[Shuva Paul, Ph.D](https://sites.google.com/view/shuvapaul/home)* to make visualizations and perform analysis of the COVID-19 pandemic. In the primary stage we are only foracing in the scenario of Bangladesh.
